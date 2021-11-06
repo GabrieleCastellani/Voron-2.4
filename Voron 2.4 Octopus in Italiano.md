@@ -1,7 +1,8 @@
 
 # Preparazione
 1. Installare Open SSH su Windows
-Apreire Powershell e eseguire il comando
+  
+  Apreire Powershell ed eseguire il comando
 ```
   # Install ssh client from PowerShell
   PS C:\> Add-WindowsCapability -Online -Name OpenSSH.Client*
@@ -9,7 +10,9 @@ Apreire Powershell e eseguire il comando
 2. Installare Windows Terminal da qui https://aka.ms/terminal
 3. Aprire Windows Terminal
 4. Preparare Raspberry PI e configurare
-DA FARE
+
+[TO DO]
+
 # Collegarsi a Raspberry
 1. Aprire Windows Terminal
 Digitare
@@ -31,3 +34,4 @@ Nella sessione ssh scrivere questi 4 comandi
 # Installare klipper, Fluidd, Mainsail con kiauh
 Selezionare opzione 1 - Install
 
+# Installare il Firmware sulla scheda
